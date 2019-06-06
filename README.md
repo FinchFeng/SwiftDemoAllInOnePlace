@@ -1,0 +1,127 @@
+# SwiftDemoAllInOnePlace
+
+所有的Swift iOS内容都会在这里有实例代码
+
+这里是进度
+
+
+- [ ]  iOS Developer
+    - [ ]  Practical knowledge
+        - [ ]  Languages
+            - [ ]  Swift
+                - [ ] KVO
+                - [ ]  Closures
+                - [ ]  Initializers
+                - [ ]  Generics
+                - [ ]  Protocols
+                - [ ]  Structs
+                - [ ]  Enums
+                - [ ]  Runtime
+                    - [ ]  Method dispatch
+        - [ ]  Memory management
+            - [ ]  Stack and Heap
+            - [ ]  Value vs Reference type
+            - [ ]  MRC
+            - [ ]  ARC
+                - [ ]  Weak references
+            - [ ]  Memory leaks
+        - [ ]  Multithreading and concurrency
+            - [ ]  NSOperation(Queue)
+            - [ ]  Runloop
+            - [ ]  Synchronization
+        - [ ]  Cocoa Touch
+            - [ ]  UIKit
+                - [ ]  UIApplication
+                    - [ ]  States
+                    - [ ]  UIApplicationDelegate
+                - [ ]  UIViews   
+                    - [ ] UIWindow
+                    - [ ] UIScrollView
+                        - [ ]  UITableViews
+                        - [ ]  UICollectionViews
+                    - [ ] UILabel
+                    - [ ] UITextField
+                    - [ ] UITextView
+                    - [ ] Alerts
+                    - [ ] UITabBar
+                    - [ ] UINavigationBar
+                    - [ ] UIPickerView
+                    - [ ] UIToolbar
+                    - [ ] UIProgressView
+                    - [ ] UIWebView
+                    - [ ] UIActivityIndicatorView
+                    - [ ] UIImageView
+                    - [ ] UISearchBar
+                    - [ ] UIControl
+                        - [ ] UIStepper
+                        - [ ] UIPageControl
+                        - [ ] UISwitch
+                        - [ ] UISegmentedControl
+                        - [ ] UITextField
+                        - [ ] UISlider
+                        - [ ] UIDatePicker
+                        - [ ] UIButton
+                        - [ ] UIRefreshControl 
+                - [ ] UITouch
+                    - [ ] UIEvent
+                - [ ] UIGestureRecognizer
+                    - [ ] UIPanGestureRecognizer
+                    - [ ] UISwipeGestureRecognizer
+                    - [ ] UIPinchGestureRecognizer
+                    - [ ] UIRotationGestureRecognizer
+                    - [ ] UILongPressGestureRecognizer
+                    - [ ] UITapGestureRecognizer
+                - [ ] Layers
+                - [ ]  Layout
+                    - [ ]  Frame-based
+                    - [ ]  Autolayout
+                        - [ ]  UIStackView
+                - [ ]  Animations
+                - [ ]  Transform
+                - [ ]  Navigation
+                - [ ]  UIViewController
+                    - [ ]  Lifecycle
+                    - [ ] UISplitViewController
+                    - [ ] UIPageViewController
+                    - [ ] UITabViewController
+                    - [ ] UINavigationController
+            - [ ]  Foundation
+                - [ ]  Notifications vs Delegation vs Observing
+                - [ ] Observer 
+                - [ ]  Collections
+                - [ ]  Networking
+                - [ ]  Serialization
+                    - [ ]  NSCoding
+                    - [ ]  Codable
+                    - [ ]  JSON
+            - [ ]  UserNotifications
+            - [ ]  Core Location
+            - [ ]  Core Motion
+            - [ ]  Work in background mode
+        - [ ]  Software Architecture
+            - [ ]  Design Patterns
+                - [ ]  Architectural
+                    - [x]  MVC
+                    - [ ]  MVVM
+        - [ ]  Dependencies management
+            - [x]  Cocoapods
+            - [ ]  Carthage
+        - [ ]  Version Control Systems
+            - [ ]  Git
+        - [ ]  Debugging
+            - [ ]  Instruments
+        - [ ]  Caching and Persistency
+            - [x]  Core Data
+            - [x] Codable 
+            - [ ] SQLite
+            - [x] NSCoding
+            - [x] UserDefault
+            - [ ] Plist
+        - [ ]  Testing
+            - [ ]  Unit Tests
+        - [ ]  Tools
+            - [ ]  IDE
+                - [ ]  Xcode
+                    - [ ]  Interface Builder
+
+inspired by : https://github.com/BohdanOrlov/iOS-Developer-Roadmap
