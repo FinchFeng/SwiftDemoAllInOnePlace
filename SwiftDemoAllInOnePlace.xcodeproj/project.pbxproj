@@ -16,6 +16,7 @@
 		130468C022A9462B0083E8AF /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130468BF22A9462B0083E8AF /* Date.swift */; };
 		130468C222A946460083E8AF /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130468C122A946460083E8AF /* Timer.swift */; };
 		130468C422A946610083E8AF /* Notification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130468C322A946610083E8AF /* Notification.swift */; };
+		1342B21B22ACF5BE00670AA5 /* CALayers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1342B21A22ACF5BE00670AA5 /* CALayers.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		130468BF22A9462B0083E8AF /* Date.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		130468C122A946460083E8AF /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 		130468C322A946610083E8AF /* Notification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notification.swift; sourceTree = "<group>"; };
+		1342B21A22ACF5BE00670AA5 /* CALayers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CALayers.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 			isa = PBXGroup;
 			children = (
 				130468BF22A9462B0083E8AF /* Date.swift */,
+				1342B21A22ACF5BE00670AA5 /* CALayers.swift */,
 				130468C122A946460083E8AF /* Timer.swift */,
 				130468C322A946610083E8AF /* Notification.swift */,
 				130468BD22A92BD80083E8AF /* ViewControllers */,
@@ -225,6 +228,7 @@
 				130468C022A9462B0083E8AF /* Date.swift in Sources */,
 				130468C422A946610083E8AF /* Notification.swift in Sources */,
 				130468A022A929CE0083E8AF /* ViewController.swift in Sources */,
+				1342B21B22ACF5BE00670AA5 /* CALayers.swift in Sources */,
 				1304689E22A929CE0083E8AF /* AppDelegate.swift in Sources */,
 				130468C222A946460083E8AF /* Timer.swift in Sources */,
 			);

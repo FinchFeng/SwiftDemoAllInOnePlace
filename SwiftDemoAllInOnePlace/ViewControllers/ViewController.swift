@@ -10,9 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var testView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewDidLayoutSubviews() {
+        super.viewDidLayoutSubviews()
+        DemoCALayer.giveRound(view: testView)
+        DemoCALayer.giveShadow(view: testView)
+        DemoCALayer.addACircleLayer(view: testView)
     }
 
 
